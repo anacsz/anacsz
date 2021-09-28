@@ -2,7 +2,7 @@
 
 
 - 💜 12º Turma Back-end {Reprograma}
-- 
+
  O Ano é 2019 e quando percebi estava estudando Tecnologia !!!!
 
 - 👩‍🎓 JavaScript | Node.js | MongoDB | HTML | CSS| Angular

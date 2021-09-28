@@ -2,8 +2,7 @@
 
 
 - 💜 12º Turma Back-end {Reprograma}
-- 👩‍🎓 Estudante Analise e Desenvolvimento - ETEC
-
+- 👩‍🎓 Estudante JavaScript | Node.js | MongoDB | HTML | CSS| Angular
 
 📚 "O conhecimento serve para encantar as pessoas, não para humilhá-las." Mario Sergio Cortella
 

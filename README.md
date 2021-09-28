@@ -2,7 +2,13 @@
 
 
 - 💜 12º Turma Back-end {Reprograma}
-- 👩‍🎓 Estudante JavaScript | Node.js | MongoDB | HTML | CSS| Angular
+- 
+ O Ano é 2019 e quando percebi estava estudando Tecnologia !!!!
+
+- 👩‍🎓 JavaScript | Node.js | MongoDB | HTML | CSS| Angular
+
+alert('Hello World')
+
 
 📚 "O conhecimento serve para encantar as pessoas, não para humilhá-las." Mario Sergio Cortella
 

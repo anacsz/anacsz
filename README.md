@@ -1,5 +1,6 @@
                                                   ### Olá!!! 🗺️ Eu sou a Ana Cláudia
-                                       O Ano é 2019 e quando percebi estava estudando Tecnologia !!!!
+                         📚 "O conhecimento serve para encantar as pessoas, não para humilhá-las." Mario Sergio Cortella
+
 
 
 - 💜 12º Turma Back-end {Reprograma}
@@ -9,7 +10,6 @@
 - 📫 Contato: ana.almeidas@yahoo.com.br
 
 
-📚 "O conhecimento serve para encantar as pessoas, não para humilhá-las." Mario Sergio Cortella
 
 
 
